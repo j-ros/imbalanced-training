@@ -1,4 +1,4 @@
-# Imbalanced training
+# Imbalanced datasets training
 
 Small training on different methods to combat imbalanced datasets:
 
